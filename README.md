@@ -1,16 +1,54 @@
-### Hi there 👋
+# Biography
 
-<!--
-**CyberBriseno/CyberBriseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Position
+- Private Cody Briseno
+- Information Technology Specialist (25B), U.S. Army National Guard
 
-Here are some ideas to get you started:
+## Location
+- Dallas, Texas, United States
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills and Technologies
+
+- **Programming Languages**: Python
+- **Tools**: Git
+- **Specializations**: Cybersecurity, Network
+
+---
+
+## Interests
+
+- Cybersecurity
+- Physical Fitness
+- Information Technology
+---
+
+## Education
+
+- AAS Information Technology in Cybersecurity, TCC, 2024-2026
+
+---
+
+## Certifications
+
+- CompTIA Security+
+
+---
+
+## Career Goals
+
+1. AAS in Information Technology: Cybersecurity
+2. CySA+
+3. Python+
+4. Linux+
+5. CISSP
+   
+---
+
+## Contact Information
+
+- **Email**: [codybriseno@gmail.com](mailto:codybriseno@gmail.com)
+- **Twitter**: [@XodyBriseno](https://twitter.com/XodyBriseno)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+
