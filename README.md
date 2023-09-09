@@ -55,5 +55,5 @@ E/ = expert
 
 - **Email**: [codybriseno@gmail.com](mailto:codybriseno@gmail.com)
 - **Twitter**: [@XodyBriseno](https://twitter.com/XodyBriseno)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/codybriseno)
+- **LinkedIn**: [@codybriseno](https://www.linkedin.com/in/codybriseno)
 
