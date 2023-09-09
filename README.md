@@ -8,12 +8,17 @@
 - Dallas, Texas, United States
 
 ---
+N/ = novice
+Adv/ = advance beginner
+P/ = proficient
+C/ = competent
+E/ = expert
 
 ## Skills and Technologies
 
-- **Programming Languages**: Python
-- **Tools**: Git
-- **Specializations**: Cybersecurity, Network
+- **Programming Languages**: N/Python
+- **Tools**: Adv/VS Studio
+- **Specializations**: N/Cybersecurity, Adv/Network
 
 ---
 
@@ -26,7 +31,7 @@
 
 ## Education
 
-- AAS Information Technology in Cybersecurity, TCC, 2024-2026
+- WIP
 
 ---
 
@@ -50,5 +55,5 @@
 
 - **Email**: [codybriseno@gmail.com](mailto:codybriseno@gmail.com)
 - **Twitter**: [@XodyBriseno](https://twitter.com/XodyBriseno)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/codybriseno)
 
