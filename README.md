@@ -7,19 +7,11 @@
 ## Location
 - Dallas, Texas, United States
 
----
-N/ = novice
-Adv/ = advance beginner
-P/ = proficient
-C/ = competent
-E/ = expert
-
 ## Skills and Technologies
 
-- **Programming Languages**: N/Python
-- **Tools**: Adv/VS Studio
-- **Specializations**: N/Cybersecurity, Adv/Network
-
+- **Cisco Packet Tracer
+- **GitHub
+- **Python
 ---
 
 ## Interests
@@ -31,24 +23,22 @@ E/ = expert
 
 ## Education
 
-- WIP
-
+- GED
+- Working on Bachelors Degree utilizing study.com
 ---
 
 ## Certifications
 
 - CompTIA Security+
-
 ---
 
 ## Career Goals
 
-1. AAS in Information Technology: Cybersecurity
+1. BS in Information Technology: Cybersecurity
 2. CySA+
 3. Python+
 4. Linux+
 5. CISSP
-   
 ---
 
 ## Contact Information
