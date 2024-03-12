@@ -1,7 +1,8 @@
 # Biography
+Navigating the digital frontier, one keystroke at a time, I am on a relentless quest to master the art of cybersecurity and outsmart the unseen threats of the online world.
 
 ## Current Position
-- Private Cody Briseno
+- Technology Support Group (TSG) Technician, United Parcel Service
 - Information Technology Specialist (25B), U.S. Army National Guard
 
 ## Location
@@ -9,27 +10,31 @@
 
 ## Skills and Technologies
 
-- **Cisco Packet Tracer
-- **GitHub
-- **Python
+- Cisco Packet Tracer
+- GitHub
+- Python
+- Windows 10,11
+- Linux
+- ServiceNow
 ---
 
 ## Interests
 
-- Cybersecurity
-- Physical Fitness
-- Information Technology
+- Cybersecurity/Malware Analysis
+- Physical Fitness/Calisthenics
+- Information Technology/Command Line
 ---
 
 ## Education
 
-- GED
-- Working on Bachelors Degree utilizing study.com
+- Highschool equivelency
+- WIP B.S. Cybersecurity Information Assurance
 ---
 
 ## Certifications
 
-- CompTIA Security+
+- CompTIA A+
+- CompTIA Security+ SYO-601/CE
 ---
 
 ## Career Goals
@@ -44,6 +49,5 @@
 ## Contact Information
 
 - **Email**: [codybriseno@gmail.com](mailto:codybriseno@gmail.com)
-- **Twitter**: [@XodyBriseno](https://twitter.com/XodyBriseno)
 - **LinkedIn**: [@codybriseno](https://www.linkedin.com/in/codybriseno)
 
