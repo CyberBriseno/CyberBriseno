@@ -28,7 +28,7 @@ Navigating the digital frontier, one keystroke at a time, I am on a relentless q
 ## Education
 
 - Highschool equivelency
-- WIP B.S. Cybersecurity Information Assurance
+- Enrolled in B.S. Cybersecurity Information Assurance | Jan 2027 graduation
 ---
 
 ## Certifications
