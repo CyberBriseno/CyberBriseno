@@ -21,7 +21,6 @@ Navigating the digital frontier, one keystroke at a time, I am on a relentless q
 ## Interests
 
 - Cybersecurity/Malware Analysis
-- Physical Fitness/Calisthenics
 - Information Technology/Command Line
 ---
 
