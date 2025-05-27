@@ -1,5 +1,5 @@
 # Biography
-Navigating the digital frontier, one keystroke at a time, I am on a relentless quest to master the art of cybersecurity and outsmart the unseen threats of the online world.
+Navigating through this relentless digital world on and rough market for cybersecurity.
 
 ## Current Position
 - Technology Support Group (TSG) Technician, United Parcel Service
@@ -33,7 +33,8 @@ Navigating the digital frontier, one keystroke at a time, I am on a relentless q
 ## Certifications
 
 - CompTIA A+
-- CompTIA Security+ SYO-601/CE
+- CompTIA Network+
+- CompTIA Security+
 ---
 
 ## Career Goals
